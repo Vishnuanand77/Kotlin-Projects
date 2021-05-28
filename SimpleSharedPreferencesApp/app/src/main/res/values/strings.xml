@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleSharedPreferencesApp</string>
+    <string name="enter_info">Enter your name</string>
+</resources>
